@@ -1,0 +1,13 @@
+node_modules/
+__pycache__/
+*.pyc
+.env
+.DS_Store
+build/
+dist/
+*.log
+venv/
+env/
+temp_videos/
+*.pkl
+*.h5
